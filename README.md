@@ -23,6 +23,8 @@ In statistics, naive Bayes classifier are a family of simple "probabilistic clas
 
 **A** and **B** must be different events.
 
+To learn more about Bayes' theorem follow the link: https://en.wikipedia.org/wiki/Bayes%27_theorem
+
 <img src="https://latex.codecogs.com/svg.image?\mathbf{P(w_i{|spam})=\frac{N_{spam}(w_1)&plus;\alpha}{N_{spam}&plus;\alpha\times&space;N_{Voc}}" title="\mathbf{P(w_i{|spam})=\frac{N_{spam}(w_1)+\alpha}{N_{spam}+\alpha\times N_{Voc}}" />
 
 

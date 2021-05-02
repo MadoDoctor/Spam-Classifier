@@ -1,5 +1,5 @@
 # Spam-Classifier
-In this repository i will show you how i did Spam Classifier with Naive Bayes classifier
+In this repository i will show you how i did Spam Classifier with naive Bayes classifier
 
 Github link to repository: https://github.com/MadoDoctor/Spam-Classifier
 
@@ -8,6 +8,10 @@ In this Machine Learning we worked with packages:
 * NumPy;
 * Pandas;
 * re.
+
+# Introduction to naive Bayes classification
+
+In statistics, naive Bayes classifier are a family of simple "probabilistic classifiers" based on applying Bayes' theorem with strong (naïve) independence assumptions between the features
 
 <img src="https://latex.codecogs.com/svg.image?\mathbf{P(w_i{|spam})=\frac{N_{spam}(w_1)&plus;\alpha}{N_{spam}&plus;\alpha\times&space;N_{Voc}}" title="\mathbf{P(w_i{|spam})=\frac{N_{spam}(w_1)+\alpha}{N_{spam}+\alpha\times N_{Voc}}" />
 
@@ -20,4 +24,3 @@ In this Machine Learning we worked with packages:
 
 <img src="https://latex.codecogs.com/svg.image?\mathbf{\alpha}" title="\mathbf{\alpha}" /> - Anti-aliasing parameter.
 
-https://wikimedia.org/api/rest_v1/media/math/render/svg/87c061fe1c7430a5201eef3fa50f9d00eac78810

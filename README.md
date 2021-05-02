@@ -18,4 +18,6 @@ In this Machine Learning we worked with packages:
 
 <img src="https://latex.codecogs.com/svg.image?\mathbf{N_{Voc}}" title="\mathbf{N_{Voc}}" /> - The total number of unique words in **all** messages.
 
-<img src="https://latex.codecogs.com/svg.image?\mathbf{\alpha}" title="\mathbf{\alpha}" /> - Anti-aliasing parameter
+<img src="https://latex.codecogs.com/svg.image?\mathbf{\alpha}" title="\mathbf{\alpha}" /> - Anti-aliasing parameter.
+
+https://wikimedia.org/api/rest_v1/media/math/render/svg/87c061fe1c7430a5201eef3fa50f9d00eac78810
